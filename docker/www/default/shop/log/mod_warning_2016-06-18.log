@@ -1,0 +1,78 @@
+[18-06-2016 14:10:30] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:10:30] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[18-06-2016 14:10:30] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[18-06-2016 14:12:11] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:12:11] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[18-06-2016 14:12:11] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[18-06-2016 14:12:53] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:12:53] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:15:13] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:15:13] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:15:26] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:15:26] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:15:58] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:15:58] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:16:06] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:16:06] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:16:08] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:16:08] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:16:19] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:16:19] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:16:20] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:16:20] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:16:21] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:16:21] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:17:03] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:17:03] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[18-06-2016 14:17:03] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[18-06-2016 14:17:09] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:17:09] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:37] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:37] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:38] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:38] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:39] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:39] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:42] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:42] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:42] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:42] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:43] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:44] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:44] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:44] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:44] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:45] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:45] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:46] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:46] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:46] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:46] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:18:47] E_USER_WARNING	: LoggingManager: 1049 - Unknown database 'shop'<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[18-06-2016 14:18:47] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/update.php called at Line 46
+[18-06-2016 14:19:10] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:19:10] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:19:10] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:19:31] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:19:31] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:19:31] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:20:26] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:20:26] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:20:26] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:22:08] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:22:08] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:22:08] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:24:51] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:24:51] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:24:51] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:25:03] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:25:03] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:25:03] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[18-06-2016 14:25:22] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[18-06-2016 14:25:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[18-06-2016 14:25:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106

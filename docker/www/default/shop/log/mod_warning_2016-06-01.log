@@ -1,0 +1,90 @@
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '0.0.0.0' (111) in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 60
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: mysqli_get_server_info() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 62
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 72
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: mysqli_query() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 27
+[01-06-2016 22:37:31] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 81
+[01-06-2016 22:37:56] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:37:56] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:37:56] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:38:22] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:38:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:38:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:38:45] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:38:45] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:38:45] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '172.17.0.4' (111) in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 60
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: mysqli_get_server_info() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 62
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 72
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: mysqli_query() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 27
+[01-06-2016 22:43:52] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 81
+[01-06-2016 22:44:17] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:44:17] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:44:17] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:44:52] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:44:52] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:44:52] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 60
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: mysqli_get_server_info() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 62
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_connect_installer.inc.php on Line: 72
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 79
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: mysqli_query() expects parameter 1 to be mysqli, boolean given in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 27
+[01-06-2016 22:45:11] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/install_step2.php called at Line 81
+[01-06-2016 22:45:27] E_WARNING	: LoggingManager: Missing argument 2 for xtc_db_input_installer(), called in /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php on line 33 and defined in File: /var/www/default/shop/_installer/inc/xtc_db_query_installer.inc.php on Line: 71
+[01-06-2016 22:45:27] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/_installer/inc/xtc_db_test_create_db_permission.inc.php called at Line 33
+[01-06-2016 22:45:27] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/_installer/install_step2.php called at Line 106
+[01-06-2016 22:50:20] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:20] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:20] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:20] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:20] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:20] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:21] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:21] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:21] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:21] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:21] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:21] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:22] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:23] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/2005): Unknown MySQL server host 'db' (2) in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 91
+[01-06-2016 22:50:23] E_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:23] E_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25
+[01-06-2016 22:50:23] E_USER_WARNING	: LoggingManager: 2005 - Unknown MySQL server host 'db' (2)<br/><br/> in File: /var/www/default/shop/inc/db_functions_mysqli.inc.php on Line: 152
+[01-06-2016 22:50:23] E_USER_WARNING	: LoggingManager: Backtrace #0 - /var/www/default/shop/includes/application_top.php called at Line 200
+[01-06-2016 22:50:23] E_USER_WARNING	: LoggingManager: Backtrace #1 - /var/www/default/shop/index.php called at Line 25

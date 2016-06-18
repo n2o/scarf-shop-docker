@@ -1,0 +1,204 @@
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2c_allowed() should be compatible with billpayBase::_is_b2c_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2b_allowed() should be compatible with billpayBase::_is_b2b_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::isDobRequired() should be compatible with billpayBase::isDobRequired() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPay::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of paypalpluslink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypalpluslink.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of billpaydebit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of billpaydebit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of paypallink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypallink.php on Line: 0
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:50:59] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2c_allowed() should be compatible with billpayBase::_is_b2c_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2b_allowed() should be compatible with billpayBase::_is_b2b_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::isDobRequired() should be compatible with billpayBase::isDobRequired() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPay::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of paypalpluslink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypalpluslink.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of billpaydebit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of billpaydebit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of paypallink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypallink.php on Line: 0
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:01] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2c_allowed() should be compatible with billpayBase::_is_b2c_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2b_allowed() should be compatible with billpayBase::_is_b2b_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::isDobRequired() should be compatible with billpayBase::isDobRequired() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPay::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of paypalpluslink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypalpluslink.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of billpaydebit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of billpaydebit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of paypallink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypallink.php on Line: 0
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:05] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillpayPayLater::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaypaylater.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2c_allowed() should be compatible with billpayBase::_is_b2c_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::_is_b2b_allowed() should be compatible with billpayBase::_is_b2b_allowed() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::isDobRequired() should be compatible with billpayBase::isDobRequired() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPay::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpay.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of paypalpluslink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypalpluslink.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of billpaydebit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of billpaydebit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of billpaydebit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaydebit.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of paypallink::success() should be compatible with PayPalPaymentBase::success($orders_id = '') in File: /var/www/default/shop/includes/modules/payment/paypallink.php on Line: 0
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #1 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::onDisplayPdf() should be compatible with billpayBase::onDisplayPdf() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getStaticLimit() should be compatible with billpayBase::_getStaticLimit() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::_getMinValue() should be compatible with billpayBase::_getMinValue() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Declaration of BillPayTransactionCredit::getPayUntilText() should be compatible with billpayBase::getPayUntilText() in File: /var/www/default/shop/includes/modules/payment/billpaytransactioncredit.php on Line: 7
+[18-06-2016 14:57:07] E_STRICT	: LoggingManager: Backtrace #0 - /var/www/default/shop/admin/modules.php called at Line 336
